@@ -16,12 +16,12 @@ Schon fertig? Beantworten Sie diese Fragen:
 2. Wann sollte ein Commit durchgeführt werden? Was macht eine "gute" Commit-Message aus?
 
 ## git-Befehle
-- 'git branch List, create, or delete branches
-- 'git log [--graph] [--all] Show commit logs
-- 'git commit -m <message>' Record changes to the repository
-- 'git merge <commit>' Join two or more development histories together
-- 'git rebase <commit> Reapply commits on top of another base tip
-- 'git cherry-pick' Apply the changes introduced by some existing commits
-- `git clone <url>` - `git clone <url>` kopiert ein vorhandes Repository von einer url auf die Festplatte
+- `git branch` List, create, or delete branches
+- `git log [--graph] [--all]` Show commit logs
+- `git commit -m <message>` Record changes to the repository
+- `git merge <commit>` Join two or more development histories together
+- `git rebase <commit>` Reapply commits on top of another base tip
+- `git cherry-pick` Apply the changes introduced by some existing commits
+- `git clone <url>` kopiert ein vorhandes Repository von einer url auf die Festplatte
 - `git push` Update remote refs along with associated objects 
 - `git pull` Fetch from and integrate with another repository or a local branch
