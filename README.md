@@ -24,4 +24,5 @@ Schon fertig? Beantworten Sie diese Fragen:
 - `git cherry-pick` Apply the changes introduced by some existing commits
 - `git clone <url>` kopiert ein vorhandes Repository von einer url auf die Festplatte
 - `git push` Update remote refs along with associated objects 
+- `git fetch` Download objects and refs from another repository
 - `git pull` Fetch from and integrate with another repository or a local branch
